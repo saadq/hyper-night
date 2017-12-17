@@ -1,15 +1,15 @@
-const white = '#FFFFFF';
-const black = '#000000';
-const lightGray = '#868e96';
-const darkGray = '#555d65';
-const green = '#b2f2bb';
-const yellow = '#ffec99';
-const red = '#ff8787';
+const white = '#FFFFFF'
+const black = '#000000'
+const lightGray = '#868e96'
+const darkGray = '#555d65'
+const green = '#b2f2bb'
+const yellow = '#ffec99'
+const red = '#ff8787'
 
-const backgroundColor = black;
-const foregroundColor = darkGray;
-const borderColor = black;
-const cursorColor = lightGray;
+const backgroundColor = black
+const foregroundColor = darkGray
+const borderColor = black
+const cursorColor = lightGray
 
 const colors = {
   black,
@@ -29,7 +29,7 @@ const colors = {
   lightCyan: lightGray,
   colorCubes: white,
   grayscale: darkGray
-};
+}
 
 exports.decorateConfig = config =>
   Object.assign({}, config, {
@@ -59,4 +59,4 @@ exports.decorateConfig = config =>
         border-top: none;
       }
     `
-  });
+  })
