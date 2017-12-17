@@ -1,0 +1,25 @@
+{
+  "name": "hyper-night",
+  "version": "0.0.0",
+  "description": "Monochrome Hyper theme based on the Night UI theme for Atom.",
+  "main": "index.js",
+  "repository": "https://github.com/saadq/hyper-night",
+  "scripts": {
+    "lint": "blyss",
+    "format": "prettier --write \"src/**/*.js\"",
+    "test": "npm run lint"
+  },
+  "keywords": [
+    "hyper",
+    "theme",
+    "monochrome",
+    "night",
+    "dark"
+  ],
+  "author": "Saad Quadri",
+  "license": "MIT",
+  "devDependencies": {
+    "blyss": "^9.0.0",
+    "prettier": "^1.9.2"
+  }
+}
