@@ -3,7 +3,7 @@
 > A dark and elegant monochrome theme for Hyper.
 
 ## Screenshot
-![Hyper Night Screenshot](https://i.imgur.com/eHrITnq.png)
+![Hyper Night Screenshot](https://i.imgur.com/FTtRDbZ.png)
 
 ## Install
 
@@ -14,6 +14,11 @@ plugins: [
   'hyper-night'
 ]
 ```
+
+## Related Projects
+- [Night UI](https://github.com/saadq/night-ui)
+- [Hyper Syntax](https://github.com/saadq/night-syntax)
+- [Night Terminal](https://github.com/saadq/night-terminal)
 
 ## License
 MIT © Saad Quadri
