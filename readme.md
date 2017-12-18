@@ -17,7 +17,7 @@ plugins: [
 
 ## Related Projects
 - [Night UI](https://github.com/saadq/night-ui)
-- [Hyper Syntax](https://github.com/saadq/night-syntax)
+- [Night Syntax](https://github.com/saadq/night-syntax)
 - [Night Terminal](https://github.com/saadq/night-terminal)
 
 ## License
